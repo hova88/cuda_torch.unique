@@ -1,5 +1,6 @@
 # Prerequisites
 *.d
+*_backup.cu
 
 # Compiled Object files
 *.slo
